@@ -126,7 +126,7 @@ class mainFragment : Fragment() {
     }
 
 /**
- * I'm trying to get the value of a variable from a sharedpreferences file, but it's not working.
+ * I'm trying to get the value of a variable from a sharedpreferences file
  */
     override fun onStart() {
         super.onStart()
