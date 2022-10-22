@@ -8,3 +8,5 @@ Aplicación Android desarrollada para cubrir las necesidades de Protección Civi
   - Josue Bernanrdo Villegas Nuño - A01751694
   - Fernando Ortiz Saldaña - A01376737
   - Favio Mariano Dileva Charles - A01745465
+![Captura de pantalla (705)](https://user-images.githubusercontent.com/84719490/197347237-f9c3ae5c-4492-4db7-b211-5b234633f96d.png)
+![Captura de pantalla (706)](https://user-images.githubusercontent.com/84719490/197347242-03fc4d4e-b309-4647-acf1-86085222f092.png)
